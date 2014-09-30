@@ -1,0 +1,670 @@
+   <table width="758" border="0" bordercolorlight="#CCCCCC">
+  <tr>
+   <td width="129">Date - Time<br /></td>
+   <td width="136">Piece</td>
+   <td width="197">Performer</td>
+   <td width="160">Venue</td>
+   <td width="114">Location</td>
+ </tr>
+
+
+ <tr>
+   <td>May 5, 2014</td>
+   <td><a href="butterfly.html">Obsidian Butterfly</a></td>
+   <td>Matt Evans, saxophone</td>
+   <td>Hatch Recital Hall, Eastman School of Music </td>
+   <td>Rochester, NY</td>
+ </tr>
+ 
+ 
+  <tr>
+   <td width="129">May, 2014<br /></td>
+   <td width="136"><a href="variationsinthereeds.html">Variations in the Reeds</a></td>
+   <td width="197">Mezcolanza Reed Quintet</td>
+   <td width="160">Texas State University School of Music</td>
+   <td width="114">San Marcos, TX</td>
+ </tr>
+ 
+ <tr>
+   <td width="129">Fall, 2014<br /></td>
+   <td width="136"><a href="variationsinthereeds.html">Variations in the Reeds</a></td>
+   <td width="197">Akropolis Reed Quintet</td>
+   <td width="160">TBD</td>
+   <td width="114">TBD</td>
+ </tr>
+ </table>
+
+  <h2 align="center">Past Performances</h2>
+  
+  
+  <table width="758" border="0" bordercolorlight="#CCCCCC">
+  <tr>
+   <td width="129">Date - Time<br /></td>
+   <td width="136">Piece</td>
+   <td width="197">Performer</td>
+   <td width="160">Venue</td>
+   <td width="114">Location</td>
+ </tr>
+ 
+ <tr>
+   <td width="129">May 1, 2014<br /></td>
+   <td width="136"><a href="scherzo.html">Scherzo à la Britten</a></td>
+   <td width="197">The United States Army Band "Pershing's Own"</td>
+   <td width="160">Woodbridge Senior High School</td>
+   <td width="114">Woodbridge, VA</td>
+ </tr>
+ 
+ <tr>
+   <td width="129">Apr 27, 2014<br /></td>
+   <td width="136"><a href="scherzo.html">Scherzo à la Britten</a></td>
+   <td width="197">The United States Army Band "Pershing's Own"</td>
+   <td width="160">Brucker Hall, Fort Myer</td>
+   <td width="114">Arlington, VA</td>
+ </tr>
+ 
+ 
+ <tr>
+   <td width="129">Apr 21, 2014<br /></td>
+   <td width="136"><a href="TheBuilder.html">The Builder</a></td>
+   <td width="197">The University of Illinois at Chicago Concert Band; José Oliver Riojas, conductor</td>
+   <td width="160">The University of Illinois at Chicago</td>
+   <td width="114">Chicago, IL</td>
+ </tr>
+ 
+<tr>
+   <td>Apr 18, 2014</td>
+   <td><a href="tmbg.html">They Might Be Gods</a></td>
+   <td><a href="http://www.zzyzxquartet.com/">Zzyzx Quartet</a></td>
+   <td>Klavierhaus Recital Hall</td>
+   <td>New York City, NY</td>
+ </tr>
+ 
+ <tr>
+   <td width="129">March, 2014<br /></td>
+   <td width="136"><a href="TheBuilder.html">The Builder</a></td>
+   <td width="197">Mercer Island High School Wind Ensemble; Parker Bixby, conductor</td>
+   <td width="160">Mercer Island High School</td>
+   <td width="114">Mercer Island, WA</td>
+ </tr>
+ 
+ <tr>
+   <td width="129">Apr 24, 2014<br /></td>
+   <td width="136"><a href="scherzo.html">Scherzo à la Britten</a></td>
+   <td width="197">The United States Army Band "Pershing's Own"</td>
+   <td width="160">Mount St. Mary's University</td>
+   <td width="114">Emmitsburg, MD</td>
+ </tr>
+ 
+ <tr>
+   <td width="129">Feb 22, 2014<br /></td>
+   <td width="136"><a href="scherzo.html">Scherzo à la Britten</a></td>
+   <td width="197">Northwestern University Symphonic Wind Ensemble; Mallory Thompson, conductor</td>
+   <td width="160">Pick-Staiger Concert Hall, Northwestern University</td>
+   <td width="114">Evanston, IL</td>
+ </tr>
+ 
+ <tr>
+   <td width="129">Feb 11, 2014<br /></td>
+   <td width="136"><a href="TheBuilder.html">The Builder</a></td>
+   <td width="197">Mercer Island High School Wind Ensemble; Parker Bixby, conductor</td>
+   <td width="160">University of Washington</td>
+   <td width="114">Seattle, WA</td>
+ </tr>
+ 
+<tr>
+   <td width="129">Feb 9, 2014<br /></td>
+   <td width="136"><a href="scherzo.html">Scherzo à la Britten</a></td>
+   <td width="197">Northshore Concert Band; Mallory Thompson, conductor</td>
+   <td width="160">Pick-Staiger Concert Hall, Northwestern University</td>
+   <td width="114">Evanston, IL</td>
+ </tr>
+
+ 
+ <tr>
+   <td width="129">Nov 16, 2013<br /></td>
+   <td width="136"><a href="scherzo.html">Scherzo à la Britten</a></td>
+   <td width="197">Texas State Wind Symphony; Caroline Beatty, conductor</td>
+   <td width="160">Evans Auditorium, Texas State University</td>
+   <td width="114">San Marcos, TX</td>
+ </tr>
+
+    <tr>
+   <td width="129">Nov 16, 2013<br /></td>
+      <td><a href="tmbg.html">They Might Be Gods</a></td>
+   <td>Thornton Saxophone Quartet</td>
+   <td width="160">University of California, Santa Barbara </td>
+   <td width="114"> Santa Barbara, CA</td>
+ </tr>
+ 
+     <tr>
+   <td width="129">Oct 5, 2013<br /></td>
+   <td width="136"><a href="TheBuilder.html">The Builder</a></td>
+   <td width="197">The University of South Florida Wind Ensemble; John C. Carmichael, conductor</td>
+   <td width="160">The University of South Florida</td>
+   <td width="114">Tampa, FL</td>
+ </tr>
+ 
+     <tr>
+   <td width="129">Aug 19, 2013<br /></td>
+   <td width="136"><a href="scherzo.html">Scherzo à la Britten</a></td>
+   <td width="197"><a href="http://www.novawinds.com">NOVA Winds</a>; John C. Carmichael, conductor</td>
+   <td width="160">Lake Braddock High School</td>
+   <td width="114">Fairfax, VA</td>
+ </tr>
+ 
+    <tr>
+   <td width="129">Apr 29, 2013<br /></td>
+   <td width="136"><a href="TheBuilder.html">The Builder</a></td>
+   <td width="197">The University of Georgia Wind Ensemble; Curran Prendergast, conductor</td>
+   <td width="160">The University of Georgia</td>
+   <td width="114">Athens, GA</td>
+ </tr>
+ 
+    <tr>
+   <td width="129">Mar 7, 2013<br /></td>
+   <td width="136"><a href="scherzo.html">Scherzo à la Britten</a></td>
+   <td width="197">The University of Georgia Wind Ensemble</td>
+   <td width="160">ABA Convention; University of South Florida</td>
+   <td width="114">Tampa, FL</td>
+ </tr>
+ 
+    <tr>
+   <td width="129">Jan 5, 2013<br /></td>
+   <td width="136"><a href="AlmostOutOfTheSky.html">Almost out of the Sky</a></td>
+   <td width="197"><a href="http://michaelhernandezsax.com/">Michael Hernandez</a>, saxophone </td>
+   <td width="160">George Mason University Center for the Arts </td>
+   <td width="114"> Fairfax, VA</td>
+ </tr>
+ 
+    <tr>
+   <td width="129">Jan 4, 2013<br /></td>
+      <td><a href="tmbg.html">They Might Be Gods</a></td>
+   <td>Phoenix Saxophone Quartet</td>
+   <td width="160">George Mason University Center for the Arts </td>
+   <td width="114"> Fairfax, VA</td>
+ </tr>
+ 
+   <tr>
+   <td width="129">Dec 17, 2012<br /></td>
+   <td width="136"><a href="scherzo.html">Scherzo à la Britten</a></td>
+   <td width="197"><a href="http://music.emory.edu/AYWS/">Atlanta Youth Wind Symphony</a>; Scott Stewart, conductor </td>
+   <td width="160">Schwartz Center for Performing Arts</td>
+   <td width="114">Atlanta, GA</td>
+ </tr>
+ 
+    <tr>
+   <td width="129">Nov 19, 2012<br /></td>
+   <td width="136"><a href="AlmostOutOfTheSky.html">Almost out of the Sky</a></td>
+   <td width="197">Brian Perez, saxophone</td>
+   <td width="160">Leah Smith Lecture Hall</td>
+   <td width="114">College Park, MD</td>
+ </tr>
+ 
+ <tr>
+   <td>Nov 14, 2012</td>
+   <td><a href="tmbg.html">They Might Be Gods</a></td>
+   <td>Phoenix Saxophone Quartet</td>
+   <td>Texas State University, Music Building Recital Hall </td>
+   <td>San Marcos, TX</td>
+ </tr>
+
+ <tr>
+   <td>Nov 6, 2012</td>
+   <td><a href="tmbg.html">They Might Be Gods</a></td>
+   <td>Phoenix Saxophone Quartet</td>
+   <td>Texas State University, Music Building Recital Hall </td>
+   <td>San Marcos, TX</td>
+ </tr>
+ 
+   <tr>
+   <td>Oct 28, 2012</td>
+   <td><a href="tmbg.html">They Might Be Gods</a></td>
+   <td><a href="http://www.barkadaquartet.com">Barkada Quartet</a> </td>
+   <td>Andrews University</td>
+   <td>Berrien Springs, MI</td>
+ </tr>
+ 
+    <tr>
+   <td>Oct 26, 2012</td>
+   <td><a href="tmbg.html">They Might Be Gods</a></td>
+   <td><a href="http://www.barkadaquartet.com">Barkada Quartet</a> </td>
+   <td>Culver Academies</td>
+   <td>Culver, IN</td>
+ </tr>
+ 
+  <tr>
+   <td>Oct 25, 2012</td>
+   <td><a href="tmbg.html">They Might Be Gods</a></td>
+   <td><a href="http://www.barkadaquartet.com">Barkada Quartet</a> </td>
+   <td>Valparaiso University</td>
+   <td>Valparaiso, IN</td>
+ </tr>
+ 
+  <tr>
+   <td>Oct 24, 2012</td>
+   <td><a href="tmbg.html">They Might Be Gods</a></td>
+   <td><a href="http://www.barkadaquartet.com">Barkada Quartet</a> </td>
+   <td>Leighton Concert Hall, DeBartolo Performing Arts Center, University of Notre Dame</td>
+   <td>Notre Dame, IN</td>
+ </tr>
+  
+ <tr>
+   <td>Oct 21, 2012</td>
+   <td><a href="tmbg.html">They Might Be Gods</a></td>
+   <td><a href="http://www.barkadaquartet.com">Barkada Quartet</a> </td>
+   <td>Music Institute of Chicago</td>
+   <td>Evanston, IL</td>
+ </tr>
+ 
+   <tr>
+   <td width="129">Oct 15, 2012<br /></td>
+   <td width="136"><a href="AlmostOutOfTheSky.html">Almost out of the Sky</a></td>
+   <td width="197"><a href="http://michaelhernandezsax.com/">Michael Hernandez</a>, saxophone </td>
+   <td width="160">Florida State University, Longmire Auditorium </td>
+   <td width="114">Tallahassee, FL</td>
+ </tr>
+ 
+  <tr>
+   <td width="129">Oct 15, 2012<br /></td>
+   <td width="136"><a href="scherzo.html">Scherzo à la Britten</a></td>
+   <td width="197"><a href="http://music.emory.edu/AYWS/">Atlanta Youth Wind Symphony</a>; Scott Stewart, conductor </td>
+   <td width="160"> North Carolina Music Educators Association State Conference </td>
+   <td width="114">Winston-Salem, NC</td>
+ </tr>
+ 
+ 
+ <tr>
+   <td>May 13, 2012</td>
+   <td><a href="tmbg.html">They Might Be Gods</a></td>
+   <td><a href="http://www.barkadaquartet.com">Barkada Quartet</a> </td>
+   <td>Fischoff National Chamber Music Competition Grand Prize Performance</td>
+   <td>Notre Dame, IN</td>
+ </tr>
+ 
+ <tr>
+   <td>Apr 26, 2012</td>
+   <td><a href="scherzo.html">Scherzo à la Britten</a></td>
+   <td>USF Wind Ensemble; John C. Carmichael, conductor</td>
+   <td>University of South Florida Concert Hall</td>
+   <td>Tampa, FL</td>
+ </tr>
+ 
+  <tr>
+   <td>Apr 15, 2012 </td>
+   <td><a href="AlmostOutOfTheSky.html">Almost out of the Sky</a></td>
+   <td>Steve Temme, saxophone (presented by the <a href="http://www.marineband.usmc.mil">US Marine Band</a>)</td>
+   <td>Marine Barracks Annex</td>
+   <td>Washington, DC</td>
+ </tr> 
+ 
+ <tr>
+   <td>Feb 23, 2012</td>
+   <td><a href="scherzo.html">Scherzo à la Britten</a></td>
+   <td>The University of Georgia Wind Ensemble; John P. Lynch, conductor</td>
+   <td>The University of Georgia<br />
+   Hugh Hodgson Hall
+     </td>
+   <td>Athens, GA</td>
+ </tr>
+ 
+ <tr>
+   <td>Feb 12, 2012</td>
+   <td>Schubert Straight Up</td>
+   <td><a href="http://www.inscapemusic.org">Inscape Chamber Orchestra</a>; Richard Scerbo, conductor</td>
+   <td>The Episcopal Church of the Redeemer</td>
+   <td>Bethesda, MD</td>
+ </tr>
+ 
+    <tr>
+   <td width="129">Jan 20, 2012<br /></td>
+   <td width="136"><a href="scherzo.html">Scherzo à la Britten</a></td>
+   <td width="197">The U.S. Army Field Band; John Lynch, conductor </td>
+   <td width="160">Riverville High School</td>
+   <td width="114">Clarksville, MD</td>
+ </tr>
+ 
+ <tr>
+   <td width="129">Nov 22, 2011<br /></td>
+   <td width="136"><a href="scherzo.html">Scherzo à la Britten</a></td>
+   <td width="197">University of Tennessee Wind Ensemble; Gary Sousa, conductor </td>
+   <td width="160">University of Tennessee Knoxville</td>
+   <td width="114">Knoxville, TN</td>
+ </tr>
+ 
+ <tr>
+   <td>Nov 4, 2011</td>
+   <td><a href="AlmostOutOfTheSky.html">Almost out of the Sky</a></td>
+   <td><a href="http://michaelhernandezsax.com/">Michael Hernandez</a>, saxophone </td>
+   <td>Kerr Cultural Center</td>
+   <td>Scottsdale, AZ</td>
+ </tr>
+  
+ <tr>
+   <td>Oct 14, 2011</td>
+   <td><a href="butterfly.html">Obsidian Butterfly</a></td>
+   <td>Jeff Vickers, saxophone</td>
+   <td>Gerald R. Daniel Recital Hall</td>
+   <td>Long Beach, CA</td>
+ </tr>
+
+ <tr>
+   <td>Oct 5, 2011</td>
+   <td><a href="scherzo.html">Scherzo à la Britten</a></td>
+   <td>Indiana University Wind Ensemble; Stephen W. Pratt, conductor</td>
+   <td>Indiana University<br />
+     Auer Hall    <br /></td>
+   <td>Bloomington, IN</td>
+ </tr>
+
+ <tr>
+   <td>Mar 31, 2011</td>
+   <td><a href="butterfly.html">Obsidian Butterfly</a></td>
+   <td>Jeff Vickers, saxophone</td>
+   <td>University of Houston<br />
+     Choral Recital Hall    <br /></td>
+   <td>Houston, TX</td>
+ </tr>
+
+<tr>
+   <td>Mar 31, 2011</td>
+   <td><a href="scherzo.html">Scherzo à la Britten</a></td>
+   <td>US Navy Band, Captain Brian O. Walden, conductor</td>
+   <td>Central Dauphin High School</td>
+   <td>Harrisburg, PA</td>
+ </tr>
+
+ <tr>
+   <td>Mar 28, 2011</td>
+   <td><a href="scherzo.html">Scherzo à la Britten</a></td>
+   <td>US Navy Band, Captain Brian O. Walden, conductor</td>
+   <td>Shea's Buffalo Theatre</td>
+   <td>Buffalo, NY</td>
+ </tr>
+
+ <tr>
+   <td>Mar 26, 2011</td>
+   <td><a href="scherzo.html">Scherzo à la Britten</a></td>
+   <td>US Navy Band, Captain Brian O. Walden, conductor</td>
+   <td>East Middle School Emerson Auditorium</td>
+   <td>Auburn, NY</td>
+ </tr>
+
+ <tr>
+   <td>Mar 23, 2011</td>
+   <td><a href="scherzo.html">Scherzo à la Britten</a></td>
+   <td>US Navy Band, Captain Brian O. Walden, conductor</td>
+   <td>Glenn Falls High School</td>
+   <td>Glens Falls, NY</td>
+ </tr>
+ <tr>
+   <td>Mar 21, 2011</td>
+   <td><a href="scherzo.html">Scherzo à la Britten</a></td>
+   <td>US Navy Band, Captain Brian O. Walden, conductor</td>
+   <td>Bangor High School</td>
+   <td>Bangor, ME</td>
+ </tr>
+
+ <tr>
+   <td>Mar 19, 2011</td>
+   <td><a href="scherzo.html">Scherzo à la Britten</a></td>
+   <td>US Navy Band, Captain Brian O. Walden, conductor</td>
+   <td>Timberlane Performing Arts Center</td>
+   <td>Plaistow, NH</td>
+ </tr>
+
+ <tr>
+   <td>Mar 16, 2011</td>
+   <td><a href="scherzo.html">Scherzo à la Britten</a></td>
+   <td>US Navy Band, Captain Brian O. Walden, conductor</td>
+   <td>Mechanics Hall</td>
+   <td>Worcester, MA</td>
+ </tr>
+
+<tr>
+   <td>Mar 14, 2011</td>
+   <td><a href="scherzo.html">Scherzo à la Britten</a></td>
+   <td>US Navy Band, Captain Brian O. Walden, conductor</td>
+   <td>The Warner Theatre</td>
+   <td>Torrington, CT</td>
+ </tr>
+
+<tr>
+   <td>Mar 12, 2011</td>
+   <td><a href="scherzo.html">Scherzo à la Britten</a></td>
+   <td>US Navy Band, Captain Brian O. Walden, conductor</td>
+   <td>Hershey High School Auditorium</td>
+   <td>Hershey, PA</td>
+ </tr>
+
+<tr>
+   <td>Jan 8, 2011</td>
+   <td><a href="butterfly.html">Obsidian Butterfly</a></td>
+   <td>Jeff Vickers</td>
+   <td>George Mason University</td>
+   <td>Fairfax, VA</td>
+ </tr>
+
+<tr>
+   <td>Jan 7, 2011</td>
+   <td><a href="tmbg.html">They Might Be Gods</a></td>
+   <td>Xenix Quartet</td>
+   <td>George Mason University</td>
+   <td>Fairfax, VA</td>
+ </tr>
+
+<tr>
+   <td>Nov 16, 2010</td>
+   <td><a href="tmbg.html">They Might Be Gods</a></td>
+   <td>Xenix Quartet</td>
+   <td>Recital Hall, University of North Texas</td>
+   <td>Denton, TX</td>
+ </tr>
+
+<tr>
+   <td>Nov 8, 2010</td>
+   <td><a href="tmbg.html">They Might Be Gods</a></td>
+   <td>Xenix Quartet</td>
+   <td>Recital Hall, University of North Texas</td>
+   <td>Denton, TX</td>
+ </tr>
+
+<tr>
+   <td>Oct 22, 2010</td>
+   <td><a href="tmbg.html">They Might Be Gods</a></td>
+   <td>Xenix Quartet</td>
+   <td>Recital Hall, University of North Texas</td>
+   <td>Denton, TX</td>
+ </tr>
+
+<tr>
+   <td>Aug 8, 2010</td>
+   <td><a href="tmbg.html">They Might Be Gods</a></td>
+   <td>West Point Quartet</td>
+   <td>Mt. Hope Presbyterian Church</td>
+   <td>Otisville, NY</td>
+ </tr>
+
+<tr>
+   <td>Jul 7, 2010</td>
+   <td>Incandenza</td>
+   <td>Ad Hoc</td>
+   <td>New Synagogue Concert Hall</td>
+   <td>Berlin, Germany</td>
+ </tr>
+
+<tr>
+   <td>Mar 4, 2010</td>
+   <td><a href="tmbg.html">They Might Be Gods</a></td>
+   <td>Zzyzx Quartet</td>
+   <td>Ramsey Hall, University of Georgia</td>
+   <td>Athens, GA</td>
+ </tr>
+
+
+<tr>
+   <td>Feb 26, 2010</td>
+   <td><a href="tmbg.html">They Might Be Gods</a></td>
+   <td>Zzyzx Quartet</td>
+   <td>Ramsey Hall, University of North Carolina</td>
+   <td>Greensboro, NC</td>
+ </tr>
+
+<tr>
+   <td>Feb 25, 2010</td>
+   <td><a href="tmbg.html">They Might Be Gods</a></td>
+   <td>Zzyzx Quartet</td>
+   <td>Yeager Recital Hall, Elon University</td>
+   <td>Elon, NC</td>
+ </tr>
+
+<tr>
+   <td>Nov 22, 2009</td>
+   <td><a href="tmbg.html">They Might Be Gods</a></td>
+   <td>Ad Hoc Quartet</td>
+   <td>Ford Hall, Indiana University</td>
+   <td>Bloomington, IN</td>
+ </tr>
+
+<tr>
+   <td>Nov 22, 2009</td>
+   <td><a href="handofday.html">The Hand of Day</a></td>
+   <td>Bethany Pietronir, piano</td>
+   <td>Ford Hall, Indiana University</td>
+   <td>Bloomington, IN</td>
+ </tr>
+
+<tr>
+   <td>Nov 22, 2009</td>
+   <td>Setting Sail</a></td>
+   <td>Vivian Ip, conductor</td>
+   <td>Ford Hall, Indiana University</td>
+   <td>Bloomington, IN</td>
+ </tr>
+
+<tr>
+   <td>Mar 3, 2009</td>
+   <td><a href="butterfly.html">Obsidian Butterfly</a></td>
+   <td>John Leszczynski, saxophone; Carlin Ma, piano</td>
+   <td>Ford Hall, Indiana University</td>
+   <td>Bloomington, IN</td>
+ </tr>
+
+<tr>
+   <td>Nov 22, 2008</td>
+   <td>All Spread Their Wings</td>
+   <td>Ad Hoc Quintet</td>
+   <td>Ford Hall, Indiana University</td>
+   <td>Bloomington, IN</td>
+ </tr>
+
+<tr>
+   <td>Nov 19, 2009</td>
+   <td><a href="tmbg.html">They Might Be Gods</a></td>
+   <td>Ad Hoc Quartet</td>
+   <td>Indiana University</td>
+   <td>Bloomington, IN</td>
+ </tr>
+
+<tr>
+   <td>Oct 21, 2008</td>
+   <td><a href="handofday.html">The Hand of Day</a></td>
+   <td>Kyle Fyr, piano</td>
+   <td>Recital Hall, Indiana University</td>
+   <td>Bloomington, IN</td>
+ </tr>
+
+
+<tr>
+   <td>May 2, 2008</td>
+   <td>All Spread Their Wings</td>
+   <td>TALKY Woodwind Quintet</td>
+   <td>Recital Hall, Indiana University</td>
+   <td>Bloomington, IN</td>
+ </tr>
+
+ <tr>
+   <td>Apr 15, 2008</td>
+   <td><a href="butterfly.html">Obsidian Butterfly</a></td>
+   <td>John Leszczynski, saxophone; Carlin Ma, piano</td>
+   <td>Auer Hall, Indiana University</td>
+   <td>Bloomington, IN</td>
+ </tr>
+
+<tr>
+   <td>Apr 4, 2008</td>
+   <td><a href="http://www.youtube.com/watch?v=WTbn56Our1g">Compass Needle</a></td>
+   <td>Derrick Wallace, trombone</td>
+   <td>Auer Hall, Indiana University</td>
+   <td>Bloomington, IN</td>
+ </tr>
+
+<tr>
+   <td>Oct 27, 2007</td>
+   <td>In Search of Lost Time</td>
+   <td>Peter Vickery, Kaitlyn Henry, Morgan Harrington</td>
+   <td>Auer Hall, Indiana University</td>
+   <td>Bloomington, IN</td>
+ </tr>
+
+
+<tr>
+   <td>Apr 28, 2007</td>
+   <td>The Dance Weaver</td>
+   <td>Wai Lau, clarinet; Joni Chan, piano</td>
+   <td>John Waldron Arts Center Auditorium</td>
+   <td>Bloomington, IN</td>
+ </tr>
+
+<tr>
+   <td>Apr 27, 2007</td>
+   <td>The Dance Weaver</td>
+   <td>Wai Lau, clarinet; Joni Chan, piano</td>
+   <td>John Waldron Arts Center Auditorium</td>
+   <td>Bloomington, IN</td>
+ </tr>
+
+
+<tr>
+   <td>Apr 12, 2007</td>
+   <td>The Sun Also Rises</td>
+   <td>Colin DeJong, piano</td>
+   <td>Ford Hall, Indiana University</td>
+   <td>Bloomington, IN</td>
+ </tr>
+
+<tr>
+   <td>Mar 4, 2007</td>
+   <td><a href="http://www.youtube.com/watch?v=WTbn56Our1g">Compass Needle</a></td>
+   <td>Derrick Wallace, trombone</td>
+   <td>Indiana University</td>
+   <td>Bloomington, IN</td>
+ </tr>
+
+<tr>
+   <td>Nov 27, 2006</td>
+   <td><a href="http://www.youtube.com/watch?v=WTbn56Our1g">Compass Needle</a></td>
+   <td>Derrick Wallace, trombone</td>
+   <td>Auer Hall, Indiana University</td>
+   <td>Bloomington, IN</td>
+ </tr>
+
+<tr>
+   <td>Apr 30, 2006</td>
+   <td>Architecture</td>
+   <td>John Leszczynski, conductor</td>
+   <td>Bishop Dwenger High School</td>
+   <td>Fort Wayne, IN</td>
+ </tr>
+
+
+<tr>
+   <td>Mar 10, 2006</td>
+   <td>Architecture</td>
+   <td>Christine Russell, conductor</td>
+   <td>Bishop Dwenger High School</td>
+   <td>Fort Wayne, IN</td>
+ </tr>
+    
+     
+</table>
+  
