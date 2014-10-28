@@ -9,6 +9,7 @@ body {
     padding: 0 0 0 0;
     font-family: Georgia, serif;
     font-size: 16px;
+    line-height: 1.5;
 }
 h1 {
     margin:  10px  0   15px  0;
@@ -54,6 +55,10 @@ a:hover {
     padding: 5px 8px 5px 10px;
     margin: 10px 20px 10px 0px;
     border-radius: 4px;
+    transition: box-shadow 0.25s ease-in-out 0s;
+}
+.nav li:hover {
+    box-shadow: inset 0 0 5px #D49400;
 }
 .nav {
     padding-left: 0;
@@ -136,6 +141,28 @@ a.email:hover {
     color: #FFB300;
 }
 
-h2.hello {
-    margin-bottom: 10px;
+.intro h3 {
+    margin:  0  0   15px  0;
+    font-size: 23px;
+}
+.intro p {
+    font-size: 18px;
+    line-height: 1.5;
+}
+
+.intro a {
+    font-size: 23px;
+    font-weight: bold;
+    padding-left: 2px;
+    color: #D49400;
+}
+
+
+.vexflow {
+   width: 100%;
+   text-align:center;
+}
+
+canvas {
+   display: inline;
 }
