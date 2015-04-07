@@ -1,3 +1,4 @@
+@import url(http://reset5.googlecode.com/hg/reset.min.css);
 html, body, h1, h2, h3, p, ul, li, a, audio, table, tr, td {
     padding: 0;
     border:  0;
@@ -5,8 +6,19 @@ html, body, h1, h2, h3, p, ul, li, a, audio, table, tr, td {
     font-size: 100%;
     font: inherit;
 }
+html {
+    font-size: 16px;
+}
 body {
     padding: 0 0 0 0;
     font-family: Georgia, serif;
-    font-size: 16px;
+    font-size: 62.5%; /* 1em = 10px */
+}
+
+h1 {
+    font-size: 3.2em; /* 32px / 10px */
+}
+
+p {
+    font-size: 1.6em; /* 16px / 10px */
 }
