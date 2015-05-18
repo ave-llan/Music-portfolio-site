@@ -97,22 +97,22 @@ p {
 
 .main-content h1 {
     margin:  1.2em  0   1em  0;
-    padding-bottom: 3px;
+    padding-bottom: 0.2em;
     border-bottom: 1px dashed #D49400;
-    font-size: 18px;
+    font-size: 1.2em;
 }
 
-/* FRONT PAGE INTRODUCTIONS */
+/* FRONT PAGE Content */
 
 .intro p {
-    font-size: 18px;
+    font-size: 1.2em;
     line-height: 1.5;
 }
 
 .intro a {
-    font-size: 23px;
+    font-size: 1.2em;
     font-weight: bold;
-    padding-left: 2px;
+    padding-left: 0.12em;
     color: #D49400;
 }
 
@@ -123,6 +123,7 @@ p {
 
 canvas {
    display: inline;
+   margin-left: -20px; /* negate the extra padding vexflow adds on canvas
 }
 
 /*  OLD CSS
