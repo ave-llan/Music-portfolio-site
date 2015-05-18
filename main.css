@@ -1,17 +1,4 @@
-/* =============================================
-FONTS
-/* ============================================= */
-
-/* add fonts here */
-
-/* =============================================
-SITE-WIDE
-/* ============================================= */
-
-/* for testing only, outline everything
-* {
-   outline: 1px solid red !important;
-}*/
+/* SITE-WIDE */
 
 *{
     -webkit-box-sizing: border-box;
@@ -182,36 +169,39 @@ a.email:hover {
 }
 
 
-/*  OLD CSS
+/*  Individual Piece pages */
+
+.title h1 {
+    font-size: 1.73em;
+    margin:  1.2em  0   0  0;
+    padding-bottom: 0;
+    border-bottom: none;
+}
+.title p {
+    margin-left: 1.33em;
+    font-style: italic;
+}
 
 audio {
-    width:450px;
-    max-width: 100%;
+    width:100%;
     padding-bottom: 10px;
 }
 
-
 .poem p{
-    line-height: 19px;
+    line-height: 1.26;
 }
+
 .instrumentation ul{
     list-style-type: none;
     padding-left: 0;
     margin-bottom: 10px;
-    line-height: 22px;
+    line-height: 1.47;
 }
 
-.title h2 {
-    font-size: 26px;
-}
-.title p {
-    margin:  0px  0   30px  20px;
-    font-style: italic;
-}
 .recording ul {
     list-style-type: none;
-    padding-left: 20px;
-    line-height: 22px;
+    padding-left: 1.33em;
+    line-height: 1.47;
 }
 
 .multi-movement li {
@@ -221,9 +211,3 @@ audio {
     margin-top: 10px;
     padding-bottom: 0;
 }
-
-
-@media screen and (min-width: 500px) {
-
-}
-*/
