@@ -1,38 +1,47 @@
+/* =============================================
+FONTS
+/* ============================================= */
+
+/* add fonts here */
+
+/* =============================================
+SITE-WIDE
+/* ============================================= */
+
+/* for testing only, outline everything
+* {
+   outline: 1px solid red !important;
+}*/
+
+*{
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -ms-box-sizing: border-box;
+    box-sizing: border-box;
+    text-rendering: optimizelegibility
+}
+
 html, body, h1, h2, h3, p, ul, li, a, audio, table, tr, td {
     padding: 0;
     border:  0;
     margin:  0;
-    font-size: 100%;
+    font-size: 15px;
     font: inherit;
 }
-body {
-    padding: 0 0 0 0;
-    font-family: Georgia, serif;
-    font-size: 16px;
-    line-height: 1.5;
-}
-h1 {
-    margin:  10px  0   15px  0;
-    font-size: 32px;
+
+img, embed, object, video, audio {
+    max-width: 100%;
 }
 
-h3 {
-    margin:  30px  0   15px  0;
-    padding-bottom: 3px;
-    border-bottom: 1px dashed #D49400;
-    font-size: 18px;
+body {
+    font-family: Georgia, serif;
+    font-size: 15px;
+    line-height: 1.3;
+    max-width: 500px;
+    margin: auto;
+    padding: 1em;
 }
-ul {
-    padding: 0 0 0 50px;
-}
-p {
-    margin-bottom: 10px;
-    line-height: 25px;
-}
-audio {
-    width:450px;
-    padding-bottom: 10px;
-}
+
 a {
     color: black;
     text-decoration: none;
@@ -40,29 +49,91 @@ a {
 a:hover {
     color: #FFB300;
 }
+
+p {
+    margin-bottom: 0.7em;
+}
+
+/* HEADER */
+
+
+
 .header {
-    padding: 10px 10px 10px 10px;
     text-align: center;
 }
-.main-content {
-    padding: 20px 20px 20px 20px;
-    margin: 20px auto 0 auto;
-    width: 500px;
+
+.header h1 {
+    margin:  0;
+    font-size: 2.1em;
 }
+
+.nav {
+    list-style-type: none;
+    padding: 0;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
 .nav li {
     border: 2px dotted #D49400;
-    display: inline;
-    padding: 5px 8px 5px 10px;
-    margin: 10px 20px 10px 0px;
+    padding: 0.25em 0.4em;
+    margin: 0.5em;
     border-radius: 4px;
     transition: box-shadow 0.25s ease-in-out 0s;
 }
 .nav li:hover {
     box-shadow: inset 0 0 5px #D49400;
 }
-.nav {
-    padding-left: 0;
+
+/* MAIN CONTENT */
+
+.main-content {
+    flex-direction: column;
+    justify-content: center;
+    max-width: 100%;
 }
+
+.main-content h1 {
+    margin:  1.2em  0   1em  0;
+    padding-bottom: 3px;
+    border-bottom: 1px dashed #D49400;
+    font-size: 18px;
+}
+
+/* FRONT PAGE INTRODUCTIONS */
+
+.intro p {
+    font-size: 18px;
+    line-height: 1.5;
+}
+
+.intro a {
+    font-size: 23px;
+    font-weight: bold;
+    padding-left: 2px;
+    color: #D49400;
+}
+
+.vexflow {
+   width: 100%;
+   text-align:center;
+}
+
+canvas {
+   display: inline;
+}
+
+/*  OLD CSS
+
+audio {
+    width:450px;
+    max-width: 100%;
+    padding-bottom: 10px;
+}
+
+
 .poem p{
     line-height: 19px;
 }
@@ -141,28 +212,9 @@ a.email:hover {
     color: #FFB300;
 }
 
-.intro h3 {
-    margin:  0  0   15px  0;
-    font-size: 23px;
-}
-.intro p {
-    font-size: 18px;
-    line-height: 1.5;
-}
-
-.intro a {
-    font-size: 23px;
-    font-weight: bold;
-    padding-left: 2px;
-    color: #D49400;
-}
 
 
-.vexflow {
-   width: 100%;
-   text-align:center;
-}
+@media screen and (min-width: 500px) {
 
-canvas {
-   display: inline;
 }
+*/
