@@ -52,6 +52,11 @@ a:hover {
 
 p {
     margin-bottom: 0.7em;
+    line-height: 1.4em;
+}
+
+ul {
+    list-style-type: none;
 }
 
 /* HEADER */
@@ -68,7 +73,6 @@ p {
 }
 
 .nav {
-    list-style-type: none;
     padding: 0;
     display: flex;
     flex-direction: row;
@@ -123,8 +127,60 @@ p {
 
 canvas {
    display: inline;
-   margin-left: -20px; /* negate the extra padding vexflow adds on canvas
+   margin-left: -20px; /* negate the extra padding vexflow adds on canvas */
 }
+
+
+/* Music Page content */
+
+.music-catalog a {
+    font-weight: bold;
+    font-size: 1.5em;
+    padding-left: 2px;
+    color: #D49400;
+}
+.music-catalog a:hover {
+    color: #FFB300;
+}
+.music-catalog p {
+    margin-bottom: 1.3em;
+    line-height: 1.6em;
+}
+
+/* PURCHASE PAGE */
+
+.purchase table {
+    border-spacing: 0.66em;
+    font-size: 1.13em;
+}
+.purchase td {
+    padding-bottom: 0;
+}
+
+.purchase .price {
+    text-align: right;
+}
+.purchase .piece-name {
+    text-align: right;
+}
+
+.purchase tr.space-under > td {
+    padding-bottom: 1.33em;
+}
+
+.purchase td.format {
+    font-style: italic;
+    font-size: 0.8em;
+}
+
+/* CONTACT PAGE */
+a.email {
+    color: #D49400;
+}
+a.email:hover {
+    color: #FFB300;
+}
+
 
 /*  OLD CSS
 
@@ -157,23 +213,7 @@ audio {
     padding-left: 20px;
     line-height: 22px;
 }
-.music-catalog a {
-    font-weight: bold;
-    font-size: 23px;
-    padding-left: 2px;
-    color: #D49400;
-}
-.music-catalog a:hover {
-    color: #FFB300;
-}
-.music-catalog ul {
-    list-style-type: none;
-    padding-left: 0;
-}
-.music-catalog li {
-    margin-bottom: 20px;
-    line-height: 25px;
-}
+
 .multi-movement li {
     margin-bottom: 20px;
 }
@@ -181,38 +221,6 @@ audio {
     margin-top: 10px;
     padding-bottom: 0;
 }
-
-.purchase table {
-    border-spacing: 10px;
-    font-size: 17px;
-}
-.purchase td {
-    padding-bottom: 0px;
-}
-
-.price {
-    text-align: right;
-}
-.piece-name {
-    text-align: right;
-}
-
-tr.space-under > td {
-    padding-bottom: 20px;
-}
-
-td.format {
-    font-style: italic;
-    font-size: 14px;
-}
-
-a.email {
-    color: #D49400;
-}
-a.email:hover {
-    color: #FFB300;
-}
-
 
 
 @media screen and (min-width: 500px) {
