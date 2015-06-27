@@ -55,6 +55,7 @@ ul {
 .header h1 {
     margin:  0;
     font-size: 2.1em;
+    margin-bottom: .2em;
 }
 
 .nav {
