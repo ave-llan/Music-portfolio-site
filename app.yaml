@@ -10,7 +10,12 @@ handlers:
   upload: favicon\.ico
 
 
-# send all to static directory for now
+# site root
+- url: /
+  static_files: static/index.html
+  upload: static/index.html
+
+# send all other requests to static directory for now
 - url: /
   static_dir: static
 
