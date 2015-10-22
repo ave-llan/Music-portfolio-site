@@ -66,7 +66,7 @@ ul {
     display: -moz-box;         /* OLD - Firefox 19- (buggy but mostly works) */
     display: -ms-flexbox;      /* TWEENER - IE 10 */
     display: -webkit-flex;     /* NEW - Chrome */
-    display: flex;             /* NEW, Spec - Opera 12.1, Firefox 20+ */    
+    display: flex;             /* NEW, Spec - Opera 12.1, Firefox 20+ */
 
     -webkit-flex-direction: row; /* Safari 6.1+ */
     flex-direction: row;
@@ -132,6 +132,14 @@ ul {
 canvas {
    display: inline;
    margin-left: -20px; /* negate the extra padding vexflow adds on canvas */
+}
+
+.aside {
+    font-size: 0.75em;
+}
+
+.aside a {
+    color: #D49400;
 }
 
 
